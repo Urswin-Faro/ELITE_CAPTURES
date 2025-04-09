@@ -2,10 +2,12 @@ body {
     font-family: 'Georgia', serif;
     margin: 0;
     padding: 0;
-    background-color: #111;
+    background: url(https://pin.it/20ZD0Uz36) no-repeat center center fixed;
+    background-size: cover;
     color: white;
     text-align: center;
 }
+
 
 header {
     display: flex;
